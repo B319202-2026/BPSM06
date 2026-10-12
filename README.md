@@ -1,0 +1,2 @@
+# BPSM06
+exercise
